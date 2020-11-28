@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E973694F-06C9-4274-A810-7AA0811E8121}|">
+  <MonoDevelop.Ide.ItemProperties.IT__LAB__WEEK__4 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IT_LAB_WEEK_4/Default.aspx.cs">
+    <Files>
+      <File FileName="IT_LAB_WEEK_4/Default.aspx" Line="14" Column="61" />
+      <File FileName="IT_LAB_WEEK_4/Default.aspx.cs" Line="11" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IT_LAB_WEEK_4" expanded="True">
+            <Node name="IT_LAB_WEEK_4" expanded="True">
+              <Node name="Default.aspx" expanded="True">
+                <Node name="Default.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/bin/Debug/netcoreapp3.1/IT_LAB_WEEK_2.deps.json
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/bin/Debug/netcoreapp3.1/IT_LAB_WEEK_2.runtimeconfig.json
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/bin/Debug/netcoreapp3.1/IT_LAB_WEEK_2.runtimeconfig.dev.json
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/bin/Debug/netcoreapp3.1/IT_LAB_WEEK_2.dll
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/bin/Debug/netcoreapp3.1/IT_LAB_WEEK_2.pdb
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/obj/Debug/netcoreapp3.1/IT_LAB_WEEK_2.csprojAssemblyReference.cache
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/obj/Debug/netcoreapp3.1/IT_LAB_WEEK_2.AssemblyInfoInputs.cache
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/obj/Debug/netcoreapp3.1/IT_LAB_WEEK_2.AssemblyInfo.cs
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/obj/Debug/netcoreapp3.1/IT_LAB_WEEK_2.csproj.CoreCompileInputs.cache
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/obj/Debug/netcoreapp3.1/IT_LAB_WEEK_2.dll
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/obj/Debug/netcoreapp3.1/IT_LAB_WEEK_2.pdb
+/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_2/IT_LAB_WEEK_2/obj/Debug/netcoreapp3.1/IT_LAB_WEEK_2.genruntimeconfig.cache
