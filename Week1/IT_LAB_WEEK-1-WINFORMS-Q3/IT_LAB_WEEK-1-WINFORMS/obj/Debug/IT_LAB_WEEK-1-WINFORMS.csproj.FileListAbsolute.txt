@@ -1,0 +1,10 @@
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK-1-WINFORMS\IT_LAB_WEEK-1-WINFORMS\bin\Debug\IT_LAB_WEEK-1-WINFORMS.exe.config
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK-1-WINFORMS\IT_LAB_WEEK-1-WINFORMS\bin\Debug\IT_LAB_WEEK-1-WINFORMS.exe
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK-1-WINFORMS\IT_LAB_WEEK-1-WINFORMS\bin\Debug\IT_LAB_WEEK-1-WINFORMS.pdb
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK-1-WINFORMS\IT_LAB_WEEK-1-WINFORMS\obj\Debug\IT_LAB_WEEK-1-WINFORMS.csprojAssemblyReference.cache
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK-1-WINFORMS\IT_LAB_WEEK-1-WINFORMS\obj\Debug\IT_LAB_WEEK_1_WINFORMS.Form1.resources
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK-1-WINFORMS\IT_LAB_WEEK-1-WINFORMS\obj\Debug\IT_LAB_WEEK_1_WINFORMS.Properties.Resources.resources
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK-1-WINFORMS\IT_LAB_WEEK-1-WINFORMS\obj\Debug\IT_LAB_WEEK-1-WINFORMS.csproj.GenerateResource.cache
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK-1-WINFORMS\IT_LAB_WEEK-1-WINFORMS\obj\Debug\IT_LAB_WEEK-1-WINFORMS.csproj.CoreCompileInputs.cache
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK-1-WINFORMS\IT_LAB_WEEK-1-WINFORMS\obj\Debug\IT_LAB_WEEK-1-WINFORMS.exe
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK-1-WINFORMS\IT_LAB_WEEK-1-WINFORMS\obj\Debug\IT_LAB_WEEK-1-WINFORMS.pdb

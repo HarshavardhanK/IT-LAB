@@ -1,0 +1,20 @@
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\bin\Debug\Car Purchase Portal.exe.config
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\bin\Debug\Car Purchase Portal.exe
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\bin\Debug\Car Purchase Portal.pdb
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.csprojAssemblyReference.cache
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car_Purchase_Portal.Form1.resources
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car_Purchase_Portal.Properties.Resources.resources
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.csproj.GenerateResource.cache
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.csproj.CoreCompileInputs.cache
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.exe
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.pdb
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Car Purchase Portal\Car Purchase Portal\bin\Debug\Car Purchase Portal.exe.config
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Car Purchase Portal\Car Purchase Portal\bin\Debug\Car Purchase Portal.exe
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Car Purchase Portal\Car Purchase Portal\bin\Debug\Car Purchase Portal.pdb
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.csprojAssemblyReference.cache
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car_Purchase_Portal.Form1.resources
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car_Purchase_Portal.Properties.Resources.resources
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.csproj.GenerateResource.cache
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.csproj.CoreCompileInputs.cache
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.exe
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.pdb

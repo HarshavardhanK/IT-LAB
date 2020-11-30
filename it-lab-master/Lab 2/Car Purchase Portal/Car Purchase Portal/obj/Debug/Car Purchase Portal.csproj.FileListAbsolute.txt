@@ -1,0 +1,10 @@
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\bin\Debug\Car Purchase Portal.exe.config
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\bin\Debug\Car Purchase Portal.exe
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\bin\Debug\Car Purchase Portal.pdb
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.csprojAssemblyReference.cache
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car_Purchase_Portal.Form1.resources
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car_Purchase_Portal.Properties.Resources.resources
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.csproj.GenerateResource.cache
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.csproj.CoreCompileInputs.cache
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.exe
+F:\IT- Web Dev\IT- Lab\Lab 2\Car Purchase Portal\Car Purchase Portal\obj\Debug\Car Purchase Portal.pdb

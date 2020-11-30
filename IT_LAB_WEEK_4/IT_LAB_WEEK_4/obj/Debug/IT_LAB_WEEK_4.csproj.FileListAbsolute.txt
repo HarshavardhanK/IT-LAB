@@ -1,6 +1,0 @@
-/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_4/IT_LAB_WEEK_4/bin/IT_LAB_WEEK_4.dll
-/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_4/IT_LAB_WEEK_4/bin/IT_LAB_WEEK_4.pdb
-/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_4/IT_LAB_WEEK_4/obj/Debug/IT_LAB_WEEK_4.csprojAssemblyReference.cache
-/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_4/IT_LAB_WEEK_4/obj/Debug/IT_LAB_WEEK_4.csproj.CoreCompileInputs.cache
-/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_4/IT_LAB_WEEK_4/obj/Debug/IT_LAB_WEEK_4.dll
-/Users/HarshavardhanK/Desktop/Study/IT/Lab/IT_LAB_WEEK_4/IT_LAB_WEEK_4/obj/Debug/IT_LAB_WEEK_4.pdb

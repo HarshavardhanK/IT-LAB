@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      var wished = false;
+      function startTime() {
+        var today = new Date();
+        var h = today.getHours();
+        var m = today.getMinutes();
+        var s = today.getSeconds();
+        m = checkTime(m);
+        s = checkTime(s);
+        document.getElementById('txt').innerHTML =
+        h + ":" + m + ":" + s;
+        wishUser(h);
+        var t = setTimeout(startTime, 500); //call again for dynamic clock
+      }
+      function checkTime(i) {
+        if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+        return i;
+      }
+      function wishUser(h){
+        if(wished)
+          return;
+        if(h < 5 || h > 23){
+          alert("Good Night.");
+        }
+        else if(h >= 5 && h < 11){
+          alert("Good Morning.");
+        }
+        else if(h>=11 && h<17){
+          alert("Good Afternoon.");
+        }
+        else{
+          alert("Good Evening.");
+        }
+        wished = true;
+      }
+    </script>
+  </head>
+  <body onload="startTime()">
+    <div id="txt"></div>
+  </body>
+</html>

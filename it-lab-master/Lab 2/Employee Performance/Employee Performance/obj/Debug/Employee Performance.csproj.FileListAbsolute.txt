@@ -1,0 +1,10 @@
+F:\IT- Web Dev\IT- Lab\Lab 2\Employee Performance\Employee Performance\bin\Debug\Employee Performance.exe.config
+F:\IT- Web Dev\IT- Lab\Lab 2\Employee Performance\Employee Performance\bin\Debug\Employee Performance.exe
+F:\IT- Web Dev\IT- Lab\Lab 2\Employee Performance\Employee Performance\bin\Debug\Employee Performance.pdb
+F:\IT- Web Dev\IT- Lab\Lab 2\Employee Performance\Employee Performance\obj\Debug\Employee Performance.csprojAssemblyReference.cache
+F:\IT- Web Dev\IT- Lab\Lab 2\Employee Performance\Employee Performance\obj\Debug\Employee_Performance.Form1.resources
+F:\IT- Web Dev\IT- Lab\Lab 2\Employee Performance\Employee Performance\obj\Debug\Employee_Performance.Properties.Resources.resources
+F:\IT- Web Dev\IT- Lab\Lab 2\Employee Performance\Employee Performance\obj\Debug\Employee Performance.csproj.GenerateResource.cache
+F:\IT- Web Dev\IT- Lab\Lab 2\Employee Performance\Employee Performance\obj\Debug\Employee Performance.csproj.CoreCompileInputs.cache
+F:\IT- Web Dev\IT- Lab\Lab 2\Employee Performance\Employee Performance\obj\Debug\Employee Performance.exe
+F:\IT- Web Dev\IT- Lab\Lab 2\Employee Performance\Employee Performance\obj\Debug\Employee Performance.pdb
