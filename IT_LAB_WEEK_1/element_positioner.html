@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Elements</title>
+    <style media="screen">
+      #element1{
+        margin: 2%;
+      }
+      #element2{
+        margin: 64px 128px;
+      }
+      #element3{
+        margin: 0px 32px;
+      }
+      #selectorDiv{
+        margin: 128px 0px;
+        background-color: #000;
+        color: #fff;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="element1">Element 1</div>
+    <div id="element2">Element 2</div>
+    <button type="button" name="button" id="element3">Element 3</button>
+    <br>
+    <p>
+      <div id="element4">
+        Element 4
+      </div>
+    </p>
+    <br>
+    <span id="element5">Element 5</span>
+    <br>
+    <div id="selectorDiv">
+      <select id="selector" name="element">
+        <option value="element1">Element 1</option>
+        <option value="element2">Element 2</option>
+        <option value="element3">Element 3</option>
+        <option value="element4">Element 4</option>
+        <option value="element5">Element 5</option>
+      </select>
+      <span>Element Position: </span><span id="positionLabel">Undefined</span>
+      <button type="submit" name="button" id="positionFinder" onclick="findPos()">Check Position</button>
+    </div>
+    <script>
+      function findPos(){
+        var value = document.getElementById("selector").value;
+        var y=window.scrollY + document.getElementById(value).getBoundingClientRect().top;
+        var x=window.scrollX + document.getElementById(value).getBoundingClientRect().left;
+
+        document.getElementById("positionLabel").innerText = (x + ", " + y);
+      }
+    </script>
+  </body>
+</html>
