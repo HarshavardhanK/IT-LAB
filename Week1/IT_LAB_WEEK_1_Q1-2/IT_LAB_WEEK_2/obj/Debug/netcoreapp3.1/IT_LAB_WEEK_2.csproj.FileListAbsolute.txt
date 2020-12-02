@@ -23,3 +23,16 @@ C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK_2\IT_LAB_WEEK_2\obj\Deb
 C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK_2\IT_LAB_WEEK_2\obj\Debug\netcoreapp3.1\IT_LAB_WEEK_2.dll
 C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK_2\IT_LAB_WEEK_2\obj\Debug\netcoreapp3.1\IT_LAB_WEEK_2.pdb
 C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\IT_LAB_WEEK_2\IT_LAB_WEEK_2\obj\Debug\netcoreapp3.1\IT_LAB_WEEK_2.genruntimeconfig.cache
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\bin\Debug\netcoreapp3.1\IT_LAB_WEEK_2.exe
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\bin\Debug\netcoreapp3.1\IT_LAB_WEEK_2.deps.json
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\bin\Debug\netcoreapp3.1\IT_LAB_WEEK_2.runtimeconfig.json
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\bin\Debug\netcoreapp3.1\IT_LAB_WEEK_2.runtimeconfig.dev.json
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\bin\Debug\netcoreapp3.1\IT_LAB_WEEK_2.dll
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\bin\Debug\netcoreapp3.1\IT_LAB_WEEK_2.pdb
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\obj\Debug\netcoreapp3.1\IT_LAB_WEEK_2.csprojAssemblyReference.cache
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\obj\Debug\netcoreapp3.1\IT_LAB_WEEK_2.AssemblyInfoInputs.cache
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\obj\Debug\netcoreapp3.1\IT_LAB_WEEK_2.AssemblyInfo.cs
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\obj\Debug\netcoreapp3.1\IT_LAB_WEEK_2.csproj.CoreCompileInputs.cache
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\obj\Debug\netcoreapp3.1\IT_LAB_WEEK_2.dll
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\obj\Debug\netcoreapp3.1\IT_LAB_WEEK_2.pdb
+C:\Users\ugcse\Desktop\HarshavardhanK-IT-LAB\Week1\IT_LAB_WEEK_1_Q1-2\IT_LAB_WEEK_2\obj\Debug\netcoreapp3.1\IT_LAB_WEEK_2.genruntimeconfig.cache

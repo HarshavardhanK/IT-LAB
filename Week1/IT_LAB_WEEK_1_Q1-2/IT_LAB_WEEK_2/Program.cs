@@ -18,10 +18,9 @@ namespace IT_LAB_WEEK_2 {
 
         public static void Main(string[] args) {
 
-            //Console.WriteLine("Hello, there!");
-            //addNums();
+
             arithmetic();
-            //String res = addTime("12:);
+           
 
         
         }
@@ -70,22 +69,21 @@ namespace IT_LAB_WEEK_2 {
             String dayTemp = "";
             Int64 add;
 
-            //Shuffle "Year" and "Day" to make the "metrics" in increasing order (from Seconds to Years)
+         
             String temp = subStrings[0];
             subStrings[0] = subStrings[2];
             subStrings[2] = temp;
 
-            //The max values for each "metric": Day, Month, Year, Hours, Minutes, Seconds
+            
             Int64[] mods = { 31, 12, 100, 24, 60, 60 };
 
-            //Loop across input and build result string
+            
             for (int i = SECOND; i >= DAY; i--)
             {
                 add = (carry + Int64.Parse(subStrings[i])) % mods[i];
                 carry = (carry + Int64.Parse(subStrings[i])) / mods[i];
 
-                //result initially holds resultant ":hh:mm:ss"
-                //dayTemp initially holds resultant "DD:MM:YY"
+                
                 if (i > YEAR)
                     result = ":" + (add + result);
                 else if (i != DAY)
@@ -94,7 +92,7 @@ namespace IT_LAB_WEEK_2 {
                     dayTemp += (add);
             }
 
-            //Combine result and dayTemp
+            
             result = (dayTemp + result);
 
             return result;

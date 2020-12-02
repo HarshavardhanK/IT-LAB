@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ugcse\\Desktop\\HarshavardhanK-IT-LAB\\IT_LAB_WEEK_2\\IT_LAB_WEEK_2\\IT_LAB_WEEK_2.csproj",
+      "projectUniqueName": "C:\\Users\\ugcse\\Desktop\\HarshavardhanK-IT-LAB\\Week1\\IT_LAB_WEEK_1_Q1-2\\IT_LAB_WEEK_2\\IT_LAB_WEEK_2.csproj",
       "projectName": "IT_LAB_WEEK_2",
-      "projectPath": "C:\\Users\\ugcse\\Desktop\\HarshavardhanK-IT-LAB\\IT_LAB_WEEK_2\\IT_LAB_WEEK_2\\IT_LAB_WEEK_2.csproj",
+      "projectPath": "C:\\Users\\ugcse\\Desktop\\HarshavardhanK-IT-LAB\\Week1\\IT_LAB_WEEK_1_Q1-2\\IT_LAB_WEEK_2\\IT_LAB_WEEK_2.csproj",
       "packagesPath": "C:\\Users\\ugcse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ugcse\\Desktop\\HarshavardhanK-IT-LAB\\IT_LAB_WEEK_2\\IT_LAB_WEEK_2\\obj\\",
+      "outputPath": "C:\\Users\\ugcse\\Desktop\\HarshavardhanK-IT-LAB\\Week1\\IT_LAB_WEEK_1_Q1-2\\IT_LAB_WEEK_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ugcse\\AppData\\Roaming\\NuGet\\NuGet.Config",
